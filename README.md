@@ -22,7 +22,7 @@ After that print the result.
  
  
  ##Program:
- ~~~
+
  Developed by : SHARMILA A
 Register number : 212221230094
 using System;
@@ -64,7 +64,7 @@ using System;
        }
    }
 
- ~~~
+
  
  ##Output:
  ![C#7](https://github.com/Sharmilasha/Operator-Overloading/assets/94506182/09d2ac32-2e9d-4978-a3ee-8cae1927ce66)
