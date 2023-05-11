@@ -67,7 +67,8 @@ using System;
  
  
  ##Output:
- ![C#7](https://github.com/Sharmilasha/Operator-Overloading/assets/94506182/222f68bd-859a-4c99-8223-e14f16a615f3)
+ ![C#7](https://github.com/Sharmilasha/Operator-Overloading/assets/94506182/09d2ac32-2e9d-4978-a3ee-8cae1927ce66)
+
 
  
  
