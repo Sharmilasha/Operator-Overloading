@@ -25,6 +25,7 @@ After that print the result.
 
  Developed by : SHARMILA A
 Register number : 212221230094
+~~~
 using System;
    class program
    {
@@ -63,7 +64,7 @@ using System;
            }
        }
    }
-
+~~~
 
  
  ##Output:
